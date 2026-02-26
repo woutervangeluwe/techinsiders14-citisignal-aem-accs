@@ -22,8 +22,11 @@
       "cards",
       "columns",
       "fragment",
+      "form",
+      "embed-adaptive-form",
       "product-teaser",
-      "product-recommendations"
+      "product-recommendations",
+      "brandconcierge"
     ]
   },
   {
@@ -37,6 +40,8 @@
       "cards",
       "columns",
       "fragment",
+      "form",
+      "embed-adaptive-form",
       "product-teaser",
       "product-recommendations"
     ]
@@ -52,6 +57,8 @@
       "cards",
       "columns",
       "fragment",
+      "form",
+      "embed-adaptive-form",
       "enrichment",
       "product-teaser",
       "product-recommendations",
@@ -69,6 +76,8 @@
       "cards",
       "columns",
       "fragment",
+      "form",
+      "embed-adaptive-form",
       "enrichment",
       "product-details",
       "product-teaser",
@@ -404,6 +413,36 @@
       "image",
       "button",
       "title"
+    ]
+  },
+  {
+    "id": "form",
+    "components": [
+      "captcha",
+      "checkbox",
+      "checkbox-group",
+      "date-input",
+      "drop-down",
+      "email",
+      "file-input",
+      "form-accordion",
+      "form-button",
+      "form-fragment",
+      "form-image",
+      "form-modal",
+      "form-reset-button",
+      "form-submit-button",
+      "number-input",
+      "panel",
+      "password",
+      "plain-text",
+      "radio-group",
+      "rating",
+      "telephone-input",
+      "text-input",
+      "tnc",
+      "wizard",
+      "range"
     ]
   }
 ]
