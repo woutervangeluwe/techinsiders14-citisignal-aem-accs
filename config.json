@@ -2,6 +2,7 @@
   "public": {
     "default": {
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/FiyMMdknnQy9nHjnEmhdux/graphql",
+       "commerce-assets-enabled": "true",
       "headers": {
         "all": {
           "Store": "default"
@@ -12,8 +13,8 @@
           "Magento-Website-Code": "citisignal"
         }
       },
-      "commerce-b2b-enabled": false,
-      "commerce-companies-enabled": false,
+      "commerce-b2b-enabled": true,
+      "commerce-companies-enabled": true,
       "commerce-assets-enabled": true,
       "adobe-commerce-optimizer": false,
       "analytics": {
