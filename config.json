@@ -8,7 +8,7 @@
         },
         "cs": {
           "Magento-Store-Code": "citisignal",
-          "Magento-Store-View-Code": "CitiSignal",
+          "Magento-Store-View-Code": "citisignal",
           "Magento-Website-Code": "citisignal"
         }
       },
@@ -22,14 +22,14 @@
         "environment-id": "5CDm7yPAbKwbVmnjY6XLaR",
         "store-code": "citisignal",
         "store-id": "citisignal",
-        "store-name": "CitiSignal",
+        "store-name": "citisignal",
         "store-url": "https://coresaas-subgraph-external:8000/5CDm7yPAbKwbVmnjY6XLaR/",
-        "store-view-code": "CitiSignal",
-        "store-view-id": "CitiSignal",
-        "store-view-name": "CitiSignal",
+        "store-view-code": "citisignal",
+        "store-view-id": "citisignal",
+        "store-view-name": "citisignal",
         "website-code": "citisignal",
         "website-id": "citisignal",
-        "website-name": "CitiSignal"
+        "website-name": "citisignal"
       },
       "plugins": {
         "picker": {
